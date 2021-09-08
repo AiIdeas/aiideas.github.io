@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "AiIdeas"
+title:		           "AIIdeas"
 description:	       "A blog to share open projects and ideas using AI models and techniques"
 author:              "Roberto F Silva / Bruna L Barreira"
 
